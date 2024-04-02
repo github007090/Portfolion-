@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    display: inline-block;
+    width: 30%;
+    background-color: #ccc;
+    margin: 1%;
+    border-style: solid;
+    border-radius: 5%;
+}
+
+img {
+    width: 100%;
+    height: 300px;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: 30px;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMdVpDTURnc52Bjoz0kI2PAgPrQ-hMoBLNIX2MiKiPjA&s);
+    background-attachment: fixed;
+    background-size: cover;
+}
